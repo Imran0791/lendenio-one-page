@@ -118,6 +118,10 @@ nav ul li a:hover{
     background: url("../img/bkimg.jpg");
     text-align: center;
     margin-bottom: 40px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
 }
 
 .box{
